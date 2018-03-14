@@ -104,7 +104,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: 'Montserrat', sans-serif;
+  font-family: monospace, monospace;
   font-size: 1em;
 }
 button,
@@ -690,7 +690,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: 'Montserrat', sans-serif;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 code {
   padding: 2px 4px;
